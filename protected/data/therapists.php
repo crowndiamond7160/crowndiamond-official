@@ -173,7 +173,20 @@ person-centered approach alongside evidence-based methods, she
 creates a safe space to empower individuals, foster resilience, and 
 promote mental well-being.',
     ),
+array(
+        'name' => 'Cheryl',
+        'image' => 'CherylIcon.png',
+        'position' => 'Kinesiologist',
+        'description' => 'Originally from Hong Kong, Cheryl Fong moved to Vancouver with an open heart and a passion for health and wellness. She completed her Bachelor of Kinesiology at the University of British Columbia in 2020 and is now a BC Registered Kinesiologist.',
+        'details' => 'Originally from Hong Kong, Cheryl Fong moved to Vancouver with an open heart and a passion for health and wellness. She completed her Bachelor of Kinesiology at the University of British Columbia in 2020 and is now a BC Registered Kinesiologist.
+<br /> <br />
+Cheryl is dedicated to helping patients restore their functional abilities after injuries, with a particular focus on education around the importance of an active lifestyle and the long-term benefits of resistance training. She has experience treating a wide range of musculoskeletal conditions, particularly those resulting from motor vehicle accidents, including shoulder, neck, lower back, knee, and ankle injuries.
+<br /> <br />
+Her treatment plans are thoughtfully tailored to each individual\'s needs, taking into account their work duties, hobbies, and daily activities to support meaningful recovery and long-term well-being.
+<br /> <br />
 
+Outside of the clinic, Cheryl enjoys lifting weights, playing badminton with friends, and experimenting with nutritious recipes in her kitchen. She is fluent in English, Cantonese, and Mandarin, and is proud to serve a diverse community.',
+    ),
 
 );
 
